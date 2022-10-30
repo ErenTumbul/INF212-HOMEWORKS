@@ -1,0 +1,392 @@
+# depslib dependency file v1.0
+1622940852 source:c:\users\user\documents\codeblocks\sinema_yonetimi\main.cpp
+	<iostream>
+	"sinema.cpp"
+	"salon.cpp"
+	"film.cpp"
+	"musteri.cpp"
+
+1622942262 c:\users\user\documents\codeblocks\sinema_yonetimi\sinema.cpp
+	<iostream>
+	"sinema.h"
+	"salon.h"
+	"film.h"
+	"musteri.h"
+	<string>
+
+1622939073 c:\users\user\documents\codeblocks\sinema_yonetimi\salon.cpp
+	<iostream>
+	"salon.h"
+	"film.h"
+	<string>
+	<iomanip>
+
+1622937478 c:\users\user\documents\codeblocks\sinema_yonetimi\salon.h
+	"film.h"
+	<string>
+
+1622759167 c:\users\user\documents\codeblocks\sinema_yonetimi\film.h
+
+1622758904 c:\users\user\documents\codeblocks\sinema_yonetimi\film.cpp
+
+1622758933 c:\users\user\documents\codeblocks\sinema_yonetimi\musteri.cpp
+
+1622812471 c:\users\user\documents\codeblocks\sinema_yonetimi\musteri.h
+
+1622940852 c:\users\user\documents\codeblocks\sinema_yonetimi\sinema.h
+	"salon.h"
+	"film.h"
+	"musteri.h"
+
+1623006641 source:c:\users\hp\desktop\sinema proje\sinema_yonetimi\main.cpp
+	<iostream>
+	"sinema.cpp"
+	"salon.cpp"
+	"film.cpp"
+	"musteri.cpp"
+
+1623007779 c:\users\hp\desktop\sinema proje\sinema_yonetimi\sinema.cpp
+	<iostream>
+	"sinema.h"
+	"salon.h"
+	"film.h"
+	"musteri.h"
+	<string>
+	<stdlib.h>
+
+1623006641 c:\users\hp\desktop\sinema proje\sinema_yonetimi\sinema.h
+	"salon.h"
+	"film.h"
+	"musteri.h"
+
+1622937478 c:\users\hp\desktop\sinema proje\sinema_yonetimi\salon.h
+	"film.h"
+	<string>
+
+1623005594 c:\users\hp\desktop\sinema proje\sinema_yonetimi\film.h
+	<string.h>
+
+1622812471 c:\users\hp\desktop\sinema proje\sinema_yonetimi\musteri.h
+
+1622939073 c:\users\hp\desktop\sinema proje\sinema_yonetimi\salon.cpp
+	<iostream>
+	"salon.h"
+	"film.h"
+	<string>
+	<iomanip>
+
+1623007997 c:\users\hp\desktop\sinema proje\sinema_yonetimi\film.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	"film.h"
+	<stdlib.h>
+
+1622758933 c:\users\hp\desktop\sinema proje\sinema_yonetimi\musteri.cpp
+
+1623016334 source:c:\users\user\desktop\sinema_yonetimi\main.cpp
+	<iostream>
+	"sinema.cpp"
+	"salon.cpp"
+	"film.cpp"
+	"musteri.cpp"
+	<stdlib.h>
+
+1623061957 c:\users\user\desktop\sinema_yonetimi\sinema.cpp
+	<iostream>
+	"sinema.h"
+	"salon.h"
+	"film.h"
+	"musteri.h"
+	<string>
+	<stdlib.h>
+
+1623061084 c:\users\user\desktop\sinema_yonetimi\sinema.h
+	"salon.h"
+	"film.h"
+	"musteri.h"
+
+1623061682 c:\users\user\desktop\sinema_yonetimi\salon.h
+	"film.h"
+	<string>
+
+1623005594 c:\users\user\desktop\sinema_yonetimi\film.h
+	<string.h>
+
+1622812471 c:\users\user\desktop\sinema_yonetimi\musteri.h
+
+1623061682 c:\users\user\desktop\sinema_yonetimi\salon.cpp
+	<iostream>
+	"salon.h"
+	"film.h"
+	<string>
+	<fstream>
+	<iomanip>
+
+1623026742 c:\users\user\desktop\sinema_yonetimi\film.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	"film.h"
+	<stdlib.h>
+
+1622758933 c:\users\user\desktop\sinema_yonetimi\musteri.cpp
+
+1623016334 source:c:\users\arima\desktop\sinema_yonetimi\main.cpp
+	<iostream>
+	"sinema.cpp"
+	"salon.cpp"
+	"film.cpp"
+	"musteri.cpp"
+	<stdlib.h>
+
+1623096708 c:\users\arima\desktop\sinema_yonetimi\sinema.cpp
+	<iostream>
+	"sinema.h"
+	"salon.h"
+	"film.h"
+	"musteri.h"
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<conio.h>
+
+1623061084 c:\users\arima\desktop\sinema_yonetimi\sinema.h
+	"salon.h"
+	"film.h"
+	"musteri.h"
+
+1623095224 c:\users\arima\desktop\sinema_yonetimi\salon.h
+	"film.h"
+	<string>
+
+1623005594 c:\users\arima\desktop\sinema_yonetimi\film.h
+	<string.h>
+
+1623095814 c:\users\arima\desktop\sinema_yonetimi\musteri.h
+	<iostream>
+	"salon.h"
+	"film.h"
+	"sinema.h"
+
+1623095227 c:\users\arima\desktop\sinema_yonetimi\salon.cpp
+	<iostream>
+	"salon.h"
+	"film.h"
+	<string>
+	<fstream>
+	<iomanip>
+
+1623026742 c:\users\arima\desktop\sinema_yonetimi\film.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	"film.h"
+	<stdlib.h>
+
+1623096735 c:\users\arima\desktop\sinema_yonetimi\musteri.cpp
+	<iostream>
+	<string>
+	"musteri.h"
+	"film.h"
+	"salon.h"
+	"sinema.h"
+	<fstream>
+	<cstdlib>
+	<windows.h>
+
+1623108743 source:c:\users\user\desktop\sinema_yonetimialfa\sinema_yonetimi\main.cpp
+	<iostream>
+	"sinema.cpp"
+	"salon.cpp"
+	"film.cpp"
+	"musteri.cpp"
+	<stdlib.h>
+
+1623108568 c:\users\user\desktop\sinema_yonetimialfa\sinema_yonetimi\sinema.cpp
+	<iostream>
+	"sinema.h"
+	"salon.h"
+	"film.h"
+	"musteri.h"
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<conio.h>
+
+1623106132 c:\users\user\desktop\sinema_yonetimialfa\sinema_yonetimi\sinema.h
+	"salon.h"
+	"film.h"
+	"musteri.h"
+
+1623106132 c:\users\user\desktop\sinema_yonetimialfa\sinema_yonetimi\salon.h
+	"film.h"
+	<string>
+
+1623005594 c:\users\user\desktop\sinema_yonetimialfa\sinema_yonetimi\film.h
+	<string.h>
+
+1623095814 c:\users\user\desktop\sinema_yonetimialfa\sinema_yonetimi\musteri.h
+	<iostream>
+	"salon.h"
+	"film.h"
+	"sinema.h"
+
+1623108568 c:\users\user\desktop\sinema_yonetimialfa\sinema_yonetimi\salon.cpp
+	<iostream>
+	"salon.h"
+	"film.h"
+	<string>
+	<fstream>
+	<iomanip>
+
+1623099385 c:\users\user\desktop\sinema_yonetimialfa\sinema_yonetimi\film.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	"film.h"
+	<stdlib.h>
+
+1623110449 c:\users\user\desktop\sinema_yonetimialfa\sinema_yonetimi\musteri.cpp
+	<iostream>
+	<string>
+	"musteri.h"
+	"film.h"
+	"salon.h"
+	"sinema.h"
+	<fstream>
+	<cstdlib>
+	<windows.h>
+
+1623111844 source:c:\users\hp\desktop\sinema_yonetimialfa\sinema_yonetimi(4)\main.cpp
+	<iostream>
+	"sinema.cpp"
+	"salon.cpp"
+	"film.cpp"
+	"musteri.cpp"
+	<stdlib.h>
+
+1623119732 c:\users\hp\desktop\sinema_yonetimialfa\sinema_yonetimi(4)\sinema.cpp
+	<iostream>
+	"sinema.h"
+	"salon.h"
+	"film.h"
+	"musteri.h"
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<conio.h>
+
+1623114415 c:\users\hp\desktop\sinema_yonetimialfa\sinema_yonetimi(4)\sinema.h
+	"salon.h"
+	"film.h"
+	"musteri.h"
+
+1623106132 c:\users\hp\desktop\sinema_yonetimialfa\sinema_yonetimi(4)\salon.h
+	"film.h"
+	<string>
+
+1623114327 c:\users\hp\desktop\sinema_yonetimialfa\sinema_yonetimi(4)\film.h
+	<string.h>
+
+1623095814 c:\users\hp\desktop\sinema_yonetimialfa\sinema_yonetimi(4)\musteri.h
+	<iostream>
+	"salon.h"
+	"film.h"
+	"sinema.h"
+
+1623115217 c:\users\hp\desktop\sinema_yonetimialfa\sinema_yonetimi(4)\salon.cpp
+	<iostream>
+	"salon.h"
+	"film.h"
+	<string>
+	<fstream>
+	<iomanip>
+
+1623115772 c:\users\hp\desktop\sinema_yonetimialfa\sinema_yonetimi(4)\film.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	"film.h"
+	<stdlib.h>
+
+1623119594 c:\users\hp\desktop\sinema_yonetimialfa\sinema_yonetimi(4)\musteri.cpp
+	<iostream>
+	<string>
+	"musteri.h"
+	"film.h"
+	"salon.h"
+	"sinema.h"
+	<fstream>
+	<cstdlib>
+	<windows.h>
+
+1623111844 source:c:\users\user\desktop\sinema_yonetimi_last\sinema_yonetimi_last\main.cpp
+	<iostream>
+	"sinema.cpp"
+	"salon.cpp"
+	"film.cpp"
+	"musteri.cpp"
+	<stdlib.h>
+
+1623121752 c:\users\user\desktop\sinema_yonetimi_last\sinema_yonetimi_last\sinema.cpp
+	<iostream>
+	"sinema.h"
+	"salon.h"
+	"film.h"
+	"musteri.h"
+	<string.h>
+	<stdlib.h>
+	<iomanip>
+	<conio.h>
+
+1623114415 c:\users\user\desktop\sinema_yonetimi_last\sinema_yonetimi_last\sinema.h
+	"salon.h"
+	"film.h"
+	"musteri.h"
+
+1623106132 c:\users\user\desktop\sinema_yonetimi_last\sinema_yonetimi_last\salon.h
+	"film.h"
+	<string>
+
+1623114327 c:\users\user\desktop\sinema_yonetimi_last\sinema_yonetimi_last\film.h
+	<string.h>
+
+1623095814 c:\users\user\desktop\sinema_yonetimi_last\sinema_yonetimi_last\musteri.h
+	<iostream>
+	"salon.h"
+	"film.h"
+	"sinema.h"
+
+1623122483 c:\users\user\desktop\sinema_yonetimi_last\sinema_yonetimi_last\salon.cpp
+	<iostream>
+	"salon.h"
+	"film.h"
+	<string>
+	<fstream>
+	<iomanip>
+
+1623115772 c:\users\user\desktop\sinema_yonetimi_last\sinema_yonetimi_last\film.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	<iomanip>
+	"film.h"
+	<stdlib.h>
+
+1623119594 c:\users\user\desktop\sinema_yonetimi_last\sinema_yonetimi_last\musteri.cpp
+	<iostream>
+	<string>
+	"musteri.h"
+	"film.h"
+	"salon.h"
+	"sinema.h"
+	<fstream>
+	<cstdlib>
+	<windows.h>
+
